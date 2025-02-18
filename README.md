@@ -18,7 +18,7 @@ python --version
 bash
 Copy
 Edit
-git clone https://github.com/your-username/simple-text-analyzer.git
+git clone https://github.com/FardausTaohyd/simple-text-analyzer.git
 cd simple-text-analyzer
 🔹 Run the Program
 bash
